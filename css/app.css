@@ -1,0 +1,13 @@
+#featured {
+	height: 400px;
+}
+
+.orbit-slide-number {
+	display: none;
+}
+
+#slide1 {
+	background: url(../img/comic.png);
+	background-repeat: no-repeat;
+	background-size: 100%;
+}

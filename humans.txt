@@ -1,0 +1,18 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Alejandro Montes García -- Founder & Developer -- @alexmontesg
+    Ana Belén Rodríguez Arias -- Founder & Developer -- @microniana
+    María Saornil Gómez -- Founder & Developer -- @mary__reilly
+    Pablo Pérez Capa -- Founder & Developer -- @KPA_
+
+# THANKS
+
+    CTIC Foundation and Gijón city council
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    Normalize.css, jQuery, Modernizr, Foundation
